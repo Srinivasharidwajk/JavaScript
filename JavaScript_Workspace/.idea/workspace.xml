@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b05c7827-09ee-4585-9f9f-0db81d753abf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1acsGJKsdhciVsVzAHXdVK8CAE3" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/React_JS_for_Students/first-app" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\JavaScript_Workspace\37_Image_Upload" />
+      <recent name="C:\Users\HP\Desktop\JavaScript_Workspace" />
+      <recent name="C:\Users\HP\Desktop\JavaScript_Workspace\bootstrap" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b05c7827-09ee-4585-9f9f-0db81d753abf" name="Default Changelist" comment="" />
+      <created>1587046119323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587046119323</updated>
+      <workItem from="1587046122084" duration="8417000" />
+      <workItem from="1587132996719" duration="797000" />
+      <workItem from="1587182962222" duration="502000" />
+      <workItem from="1587363440067" duration="4092000" />
+      <workItem from="1587386988137" duration="5523000" />
+      <workItem from="1587438422597" duration="21440000" />
+      <workItem from="1587561522554" duration="6154000" />
+      <workItem from="1587704534423" duration="7041000" />
+      <workItem from="1587817241535" duration="3961000" />
+      <workItem from="1587989834205" duration="4781000" />
+      <workItem from="1588040942306" duration="1222000" />
+      <workItem from="1588092311193" duration="639000" />
+      <workItem from="1588136106762" duration="7309000" />
+      <workItem from="1588305937025" duration="7979000" />
+      <workItem from="1588426518702" duration="11872000" />
+      <workItem from="1588514634051" duration="128000" />
+      <workItem from="1588602222225" duration="3364000" />
+      <workItem from="1589520566932" duration="3927000" />
+      <workItem from="1590506065349" duration="3278000" />
+      <workItem from="1590555718119" duration="838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
